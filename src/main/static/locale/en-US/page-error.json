@@ -1,0 +1,15 @@
+{
+    "title": {
+      "400": "Bad Request",
+      "403": "Forbidden",
+      "404": "Not Found",
+      "500": "Internal Server Error"
+    },
+    "description": {
+      "400": "The request we received from your browser is incorrect. Please try again!",
+      "403": "Sorry, you do not have access to this page.",
+      "404": "We're sorry, but we didn't find this page.",
+      "500": "Something went wrong on our side. Please try again later!"
+    }
+  }
+  

@@ -1,0 +1,23 @@
+{
+    "index": {
+      "title": "Huis",
+      "hi": "Hoi mensen",
+      "description": "Welkom bij uw nieuwe Next.js-site.",
+      "browser-dimensions": {
+        "headline": "Afmetingen van uw browser:",
+        "height": "hoogte:",
+        "width": "breedte:"
+      },
+      "go-to-page-2": "Ga naar pagina 2"
+    },
+    "about": {
+      "title": "Dit is de pagina About"
+    },
+    "page-2": {
+      "title": "Pagina 2",
+      "hi": "Hallo vanaf de tweede pagina",
+      "description": "Welkom bij pagina 2",
+      "go-to-homepage": "Ga terug naar de startpagina"
+    }
+  }
+  

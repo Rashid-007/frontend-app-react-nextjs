@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login renders the h1 title 1`] = `
+Array [
+  .emotion-3 {
+  background: #5a95bb;
+}
+
+.emotion-2 {
+  margin: 0 auto;
+  max-width: 1200px;
+  height: 100px;
+  padding: 30px;
+}
+
+.emotion-1 {
+  margin: 0;
+}
+
+.emotion-0 {
+  color: white;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.emotion-0:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<header
+    className="emotion-3"
+  >
+    <div
+      className="emotion-2"
+    >
+      <h1
+        className="emotion-1"
+      >
+        <a
+          className="emotion-0"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          SHOP
+        </a>
+      </h1>
+    </div>
+    <nav>
+      <a
+        href="/"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        Home
+      </a>
+       
+       
+    </nav>
+  </header>,
+  .emotion-0 {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0px 1.5em 3.0em;
+}
+
+<div
+    className="emotion-0"
+  >
+    <main>
+      <h1>
+        index.hi
+         👋
+      </h1>
+      <h2>
+        Hello world! APP_ENV: 
+         and cms-port: 
+      </h2>
+      <p>
+        index.browser-dimensions.headline
+      </p>
+      <ul>
+        <li>
+          index.browser-dimensions.height
+           
+          768
+        </li>
+        <li>
+          index.browser-dimensions.width
+           
+          1024
+        </li>
+      </ul>
+    </main>
+    <footer>
+      © 
+      2019
+    </footer>
+  </div>,
+]
+`;

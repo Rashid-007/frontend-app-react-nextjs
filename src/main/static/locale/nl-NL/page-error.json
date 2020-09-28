@@ -1,0 +1,15 @@
+{
+    "title": {
+      "400": "Slecht verzoek",
+      "403": "Verboden",
+      "404": "Niet gevonden",
+      "500": "Fout in de interne server"
+    },
+    "description": {
+      "400": "Het verzoek dat wij van uw browser hebben ontvangen is onjuist. Probeer het opnieuw!",
+      "403": "Sorry, u heeft geen toegang tot deze pagina.",
+      "404": "Het spijt ons, maar we hebben deze pagina niet gevonden.",
+      "500": "Er is iets misgegaan aan onze kant. Probeer het later nog eens!"
+    }
+  }
+  

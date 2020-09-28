@@ -1,0 +1,6 @@
+{
+    "watch": ["server/**", "src/main/static", "i18n.ts"],
+    "exec": "ts-node --project tsconfig.server.json server/index.ts",
+    "ext": "js ts"
+  }
+  

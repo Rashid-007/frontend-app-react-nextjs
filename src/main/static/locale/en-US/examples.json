@@ -1,0 +1,23 @@
+{
+    "index": {
+      "title": "Home",
+      "hi": "Hi people",
+      "description": "Welcome to your new Next.js site.",
+      "browser-dimensions": {
+        "headline": "You browser dimensions:",
+        "height": "height:",
+        "width": "width:"
+      },
+      "go-to-page-2": "Go to page 2"
+    },
+    "about": {
+      "title": "This is About page"
+    },
+    "page-2": {
+      "title": "Page 2",
+      "hi": "Hi from the second page",
+      "description": "Welcome to page 2",
+      "go-to-homepage": "Go back to the homepage"
+    }
+  }
+  

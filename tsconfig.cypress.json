@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "lib": ["dom", "dom.iterable", "esnext"],
+      "baseUrl": "./node_modules",
+      "types": ["cypress"],
+      "skipLibCheck": true
+    },
+    "include": ["src/test/**/*.ts"]
+  }
+  
